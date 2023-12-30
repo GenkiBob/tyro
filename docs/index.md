@@ -16,7 +16,7 @@ features:
   - title: 1 如何使用
     details: 安装 - 注册 - 点击'连接' 即可，软件内可直接联系客服、内购套餐，无需登录网页端.
   - title: 2 联系客服
-    details: 登录后发送工单 或 点击下列链接
+    details: 登录后发送工单 或 点击下列链接. Email:coocangela@gmail.com
     link: http://154.23.241.39:7070/
     linkText: 了解更多
   - title: 3 获取退款
