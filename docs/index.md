@@ -10,7 +10,7 @@ hero:
     alt: cooc
   actions:
     - theme: brand
-      text: Get Started
+      text: 登 录
       link: /guide/what-is-vitepress
     - theme: alt
       text: View on GitHub
