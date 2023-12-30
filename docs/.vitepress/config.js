@@ -5,7 +5,7 @@ export default {
     base: '/tyro/',
     lang: 'zh-CN',
     ignoreDeadLinks: true,
-    outDir: '../dist',
+    // outDir: '../dist',
     themeConfig: {
         siteTitle: 'Tyro Cloud · 小白云',
         crisp: '0de87b57-f520-4955-99fd-f9557fc7adc6',
