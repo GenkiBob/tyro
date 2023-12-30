@@ -7,7 +7,7 @@ hero:
   tagline: 免费试用两天 · 承诺不满意随时退款！
   image:
     src: /logo.png
-    alt: VitePress
+    alt: cooc
   actions:
     - theme: brand
       text: Get Started
