@@ -2,7 +2,7 @@ export default {
     title: 'Tyro Cloud',
     description: '小白云',
     titleTemplate: '小白云',
-    base: '/tyro/',
+    // base: '/tyro/',
     lang: 'zh-CN',
     ignoreDeadLinks: true,
     // outDir: '../dist',

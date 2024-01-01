@@ -30,5 +30,3 @@ features:
   - title: 节点资源
     details: 节点均为 ISP(双) or 家宽，可用于商业运营前期探索，且有足够强大的资源负载体系支撑整体服务. 若有开发需求 或 自有资源需合作，可联系小助手
 ---
-
-<!-- <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="0de87b57-f520-4955-99fd-f9557fc7adc6";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script> -->
