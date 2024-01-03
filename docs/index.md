@@ -14,9 +14,9 @@ hero:
       link: /check/checkDomain
 features:
   - title: 1 如何使用
-    details: 安装 - 注册 - 点击'连接' 即可，软件内可直接联系客服、内购套餐，无需登录网页端.
+    details: 下载 - 安装 - 注册 - '连接' ，无需登录网站，软件内可直接内购套餐.
   - title: 2 问题协助
-    details: 右下角联系客服，或登录发工单. Email：coocangela@gmail.com 
+    details: 右下角联系客服（网络连接不畅的情况下可能不会出现客服图标），或 登录发工单. Email：coocangela@gmail.com 
     # link: /check/support
     # linkText: 联系客服
   - title: 3 获取退款
