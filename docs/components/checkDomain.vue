@@ -1,5 +1,6 @@
 <script setup>
-//     // 获取当前页面的 URL
+    // 获取当前页面的 URL
+
     var url = window.location.href;
 
     // 解析 URL，并获取查询参数
@@ -60,19 +61,50 @@
       }
     }
 
-// 文字说明
-// const say = "若页面未跳转，请点击："
+
+  // IP跳转
+
+    function loadJSON(callback) {
+		fetch('ip.json').then(function (response) {
+			return response.json();
+		})
+		.then(function (data) {
+			// callback(data);
+      window.location.href = data[0];
+		});
+	}
+
 </script>
 
 <template>
-    <!-- <h3 class="hi">{{say}}=</h3> -->
+  <div class="checkMain">
+    <button @click="loadJSON">网站 IP地址</button>
+  <br>
+  <br>
+    <span>
+      若当前页面未立即跳转，请点击 以上 链接。
+    </span>
+    
+  </div>
+
+
 
 </template>
 
 <style>
-/* .hi {
-    text-align: center;
-} */
+.checkMain {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+}
+.checkMain button {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-top: 1rem;
+  border-bottom: 2px dashed #000;
+  padding: 10px 20px;
+}
+    
 </style>
 
 

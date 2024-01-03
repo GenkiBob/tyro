@@ -21,6 +21,6 @@ export default {
       },
       head: [
         ['link', { rel: 'icon', href: '/icon.png' }],
-      ]
+      ],
   }
   
