@@ -7,8 +7,8 @@ hero:
   tagline: 免费试用两天 · 全设备支持 · 承诺不满意可随时退款！
   actions:
     - theme: brand
-      text: 下载 & 教程
-      link: /check/checkDomain
+      text: 软件下载
+      link: /down
     - theme: alt
       text: 登 录
       link: /check/checkDomain
