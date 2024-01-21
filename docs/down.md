@@ -9,10 +9,10 @@ title: 快速使用
 ## 01 官方软件
 使用更为便捷，只需三步：'注册 —— 登录 —— 连接' 。
 
-1. [Mac 电脑](/mac)
-2. [苹果手机平板](/ios)
-3. [Windows 电脑](https://assets.tyro.wiki/c/tyro.exe)
-4. [安卓鸿蒙/手机平板](https://assets.tyro.wiki/c/tyro.apk)
+1. [Mac 苹果电脑](/mac)
+2. [Windows 电脑](https://assets.tyro.wiki/c/tyro.exe)
+3. [IOS 苹果手机（平板）](/ios)
+4. [安卓｜鸿蒙 手机（平板）](https://assets.tyro.wiki/c/tyro.apk)
 
 ## 02 第三方通用软件
 使用更为灵活，首次接触需理解各项功能。
