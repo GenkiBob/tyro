@@ -44,7 +44,7 @@
         // 超时 10 秒禁止循环，弹出提示联系站长
         clearInterval(timer);
         timer = null;
-        const text = "无法跳转可用站点，请联系客服获取补偿。";
+        const text = "无法跳转可用站点，请点击下列‘立即前往’。";
         alert(text);
         //   document.getElementById('info').innerText = text;
       }, 10000)
