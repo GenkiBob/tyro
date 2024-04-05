@@ -34,9 +34,9 @@ title: 苹果教程
 
 ## 03 下载
 
-软件名：Digilink
+软件名：**Digilink**
 
-首次进入软件需输入验证码：cooc
+验证码：**cooc**
 
 <a href="https://apps.apple.com/app/id1595774070">
 <img src="http://assets.tyro.wiki/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
