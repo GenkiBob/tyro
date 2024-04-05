@@ -8,11 +8,15 @@ title: Mac教程
 
 ## 01 下载地址
 
+[M系列芯片](https://assets.tyro.wiki/c/tyro-arm64.pkg) ｜ [备用下载](http://154.23.241.39:9008/c/tyro-arm64.pkg)
+
+[Intel芯片](https://assets.tyro.wiki/c/tyro.pkg) ｜ [备用下载](http://154.23.241.39:9008/c/tyro.pkg)
+
 ::: tip
 
-<a href="https://assets.tyro.wiki/c/tyro-arm64.pkg" style="">M 芯片</a>
-｜
-<a href="https://assets.tyro.wiki/c/tyro.pkg" style="">Intel 芯片</a>
+如果完成下图所示步骤后提示：无法安装xxx。大概率选错芯片版本。
+
+联系客服可快速获得技术支持！
 
 :::
 
@@ -20,8 +24,34 @@ title: Mac教程
 
 首次安装时，电脑会提示“无法打开”，请按照下列步骤操作：
 
-![](http://assets.tyro.wiki/img/course/02/1.webp)  
+:::tip 2.1 M芯片电脑提示
 
-![](http://assets.tyro.wiki/img/course/02/2.webp)  
+![](/images/document/mac/1.webp)
 
-![](http://assets.tyro.wiki/img/course/02/3.webp)  
+---
+
+![](/images/document/mac/2.webp)
+
+---
+
+![](/images/document/mac/3.webp)
+
+:::
+
+:::tip 2.2 Intel 芯片电脑提示
+
+![](/images/document/mac/1.webp)
+
+---
+
+![](/images/document/mac/14.png)
+
+---
+
+![](/images/document/mac/15.png)
+
+---
+
+![](/images/document/mac/16.png)
+
+:::

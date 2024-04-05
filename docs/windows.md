@@ -8,20 +8,40 @@ title: Windows教程
 
 ## 01 下载地址
 
-::: tip
+[点击下载](https://assets.tyro.wiki/c/tyro.exe)
 
-<a href="https://assets.tyro.wiki/c/tyro.exe" style="">下载客户端</a>
-
-:::
+[备用下载](http://154.23.241.39:9008/c/tyro.exe)
 
 ## 02 安装
 
 首次安装时，电脑会提示“无法打开”，请按照下列步骤操作：
 
-![](https://assets.tyro.wiki/img/w/11.jpg)
+:::tip
 
-![](https://assets.tyro.wiki/img/w/12.jpg)
+![](/images/document/windows/11.jpg)
 
-![](https://assets.tyro.wiki/img/w/13.jpg)
+---
 
-![](https://assets.tyro.wiki/img/w/14.jpg)
+![](/images/document/windows/12.jpg)
+
+---
+
+![](/images/document/windows/13.jpg)
+
+---
+
+![](/images/document/windows/14.jpg)
+
+---
+
+![](/images/document/windows/15.jpg)
+
+---
+
+![](/images/document/windows/16.jpg)
+
+---
+
+![](/images/document/windows/17.jpg)
+
+:::

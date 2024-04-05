@@ -11,10 +11,13 @@ title: 苹果教程
 ## 01 获取 APPLE ID
 
 ::: tip 共享 ID
+
 [共享一](https://idfree.top)｜[共享二](https://apple.laogoubi.net/s/c7d1e73290a646f2513f6f0b75843b0b)｜[共享三](https://idshare.me)｜[共享四](https://idshare.me)｜[共享五](https://appleid.iossid.com)｜[共享六](https://aunlock.laogoubi.net/s/df4ab9de842ce5f0abefcc560cf504f0)｜[共享七](https://aunlock.laogoubi.net/s/1ddec87e5432ed7d6fb11056bc53fd6a.top)
 
 
-共享账号仅能登录 App Store ，若误登iCloud会出现锁机风险，建议查看下列2.1项视频教程。
+共享账号仅能登录 App Store ，若误登iCloud会出现锁机风险。
+
+⚠️ 切换账号请根据下图操作！
 
 <div style="text-align: right;">以上信息均通过公开途径收集，更新时间：2024-01-20 </div>
 :::
