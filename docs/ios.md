@@ -42,4 +42,4 @@ title: 苹果教程
 <img src="http://assets.tyro.wiki/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
 </a>
 
-点击以上图标可直接跳转下载。
+已更换ID的前提下，在Safari浏览器中点击以上图标可自动跳转下载.
