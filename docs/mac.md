@@ -8,9 +8,9 @@ title: Mac教程
 
 ## 01 下载地址
 
-[M系列芯片](https://assets.tyro.wiki/c/tyro-arm64.pkg) ｜ [备用下载](http://154.23.241.39:9008/c/tyro-arm64.pkg)
+[M系列芯片](https://assets.tyro.wiki/c/Digilink-arm64.pkg) ｜ [备用下载](http://154.23.241.39:9008/c/Digilink-arm64.pkg)
 
-[Intel芯片](https://assets.tyro.wiki/c/tyro.pkg) ｜ [备用下载](http://154.23.241.39:9008/c/tyro.pkg)
+[Intel芯片](https://assets.tyro.wiki/c/Digilink.pkg) ｜ [备用下载](http://154.23.241.39:9008/c/Digilink.pkg)
 
 ::: tip
 

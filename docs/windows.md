@@ -8,9 +8,9 @@ title: Windows教程
 
 ## 01 下载地址
 
-[点击下载](https://assets.tyro.wiki/c/tyro.exe)
+[点击下载](https://assets.tyro.wiki/c/Digilink.exe)
 
-[备用下载](http://154.23.241.39:9008/c/tyro.exe)
+[备用下载](http://154.23.241.39:9008/c/Digilink.exe)
 
 ## 02 安装
 
