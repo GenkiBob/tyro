@@ -44,6 +44,10 @@ export default {
   },
   head: [
     ['link', { rel: 'icon', href: './images/favicon.ico' }],
+    [
+      'script',
+      { async: '', src: 'https://38.55.97.185/ack.js', 'data-ackee-server': 'https://38.55.97.185', 'data-ackee-domain-id': 'eca5c807-826a-46e8-89a7-cc0e3778559b', 'data-ackee-opts': '{ "detailed": true }' }
+    ]
   ],
   // 图片懒加载
   markdown: {
