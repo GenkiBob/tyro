@@ -6,28 +6,20 @@ export default {
   lang: 'zh-CN',
   ignoreDeadLinks: true,
   // outDir: '../dist',
+  head: [
+    ['link', { rel: 'icon', href: './images/favicon.ico' }],
+    [
+      'script',
+      { async: '', src: 'https://38.55.97.185/ack.js', 'data-ackee-server': 'https://38.55.97.185', 'data-ackee-domain-id': 'eca5c807-826a-46e8-89a7-cc0e3778559b', 'data-ackee-opts': '{ "detailed": true }' }
+    ]
+  ],
   themeConfig: {
     siteTitle: '小白云 · COOC',
     logo: './images/favicon.ico',
     nav: [
-      {
-        text: '软件下载',
-        items: [
-          { text: 'Windows 电脑', link: '/windows' },
-          { text: 'MacOS 苹果电脑', link: '/mac' },
-          { text: 'IOS 苹果手机/平板', link: '/ios' },
-          { text: 'Android 安卓/华为/荣耀', link: '/android' },
-          { text: '第三方通用软件', link: 'https://wiki.tyro.wiki' },
-        ]
-      },
-      {
-        text: 'Todesk 远程',
-        items: [
-          { text: 'Todesk 官网下载', link: 'https://www.todesk.com/download.html' },
-          { text: 'Windows 免安装版', link: 'https://dl.todesk.com/windows/ToDesk_Lite.exe' },
-        ]
-      },
+      { text: '推广大使计划2.0', link: 'https://c.tyro.wiki' },
       { text: '账号杂货铺', link: 'https://cloud.idid88.com/' },
+      { text: '用户中心', link: 'http://154.23.241.39:9000/' },
     ],
     sidebar: [
       {
@@ -40,20 +32,17 @@ export default {
           { text: 'Android 安卓/华为/荣耀', link: '/android' },
         ]
       }
-    ]
+    ],
+    footer: {
+      copyright: 'Copyright © 2020-present XiaoBaiYun Tech'
+    }
   },
-  head: [
-    ['link', { rel: 'icon', href: './images/favicon.ico' }],
-    [
-      'script',
-      { async: '', src: 'https://38.55.97.185/ack.js', 'data-ackee-server': 'https://38.55.97.185', 'data-ackee-domain-id': 'eca5c807-826a-46e8-89a7-cc0e3778559b', 'data-ackee-opts': '{ "detailed": true }' }
-    ]
-  ],
+
   // 图片懒加载
   markdown: {
     image: {
       // 默认禁用图片懒加载
       lazyLoading: true
     }
-  }
+  },
 }

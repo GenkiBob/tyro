@@ -2,3 +2,12 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: linear-gradient(135deg, #EEAD92 10%, #6018DC 100%);
 }
+
+.ele-content-title {
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 40px auto 20px;
+}
