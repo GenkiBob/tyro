@@ -8,7 +8,7 @@ title: Windows教程
 
 ## 01 下载地址
 
-[点击下载](https://assets.xn--xkru27h5fjrwm.com:9999/c/Digilink-Setup-1.3.10.exe)
+[点击下载](https://assets.tyro.wiki/c/Digilink-Setup-1.3.10.exe)
 
 [备用下载](http://154.23.241.39:9008/c/Digilink-Setup-1.3.10.exe)
 

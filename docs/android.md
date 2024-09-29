@@ -8,7 +8,7 @@ title: Android教程
 
 ## 01 下载地址
 
-[点击下载](https://assets.xn--xkru27h5fjrwm.com:9999/c/Digilink-1.3.10-universal-release.apk)
+[点击下载](https://assets.tyro.wiki/c/Digilink-1.3.10-universal-release.apk)
 
 <!-- [下载](https://assets.tyro.wiki/c/Digilink.apk) -->
 
