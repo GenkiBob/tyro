@@ -8,18 +8,18 @@ export default {
   // outDir: '../dist',
   head: [
     ['link', { rel: 'icon', href: './images/favicon.ico' }],
-    [
-      'script',
-      { async: '', src: 'https://38.55.97.185/ack.js', 'data-ackee-server': 'https://38.55.97.185', 'data-ackee-domain-id': 'eca5c807-826a-46e8-89a7-cc0e3778559b', 'data-ackee-opts': '{ "detailed": true }' }
-    ]
+    // [
+    //   'script',
+    //   { async: '', src: 'https://38.55.97.185/ack.js', 'data-ackee-server': 'https://38.55.97.185', 'data-ackee-domain-id': 'eca5c807-826a-46e8-89a7-cc0e3778559b', 'data-ackee-opts': '{ "detailed": true }' }
+    // ]
   ],
   themeConfig: {
     siteTitle: '小白云 · COOC',
     logo: './images/favicon.ico',
     nav: [
       { text: '推广大使计划2.0', link: 'https://c.tyro.wiki' },
-      { text: '账号杂货铺', link: 'https://cloud.idid88.com/' },
-      { text: '用户中心', link: 'http://154.23.241.39:9000/' },
+      { text: '账号杂货铺', link: 'https://idstore.for789.com' },
+      { text: '用户中心', link: 'https://154.23.241.39:20001/' },
     ],
     sidebar: [
       {

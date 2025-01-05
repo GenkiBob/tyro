@@ -8,6 +8,17 @@ hero:
   image:
     src: /images/banner.webp
     alt: 小白云·COOC
+  actions:
+    - theme: brand
+      text: 登 录
+      link: 'https://154.23.241.39:20001'
+      target: '_self'
+      rel: nofollow
+    - theme: alt
+      text: 注 册
+      link: 'https://154.23.241.39:20001/?path=register'
+      target: '_self'
+      rel: nofollow
 features:
   - title: IOS 下载安装
     details: 苹果手机、平板 使用教程
