@@ -19,7 +19,7 @@ export default {
     nav: [
       { text: '推广大使计划2.0', link: 'https://c.tyro.wiki' },
       { text: '账号杂货铺', link: 'https://idstore.for789.com' },
-      { text: '用户中心', link: 'https://154.23.241.39:20001/' },
+      { text: '用户中心', link: 'https://154.26.185.131:61001/' },
     ],
     sidebar: [
       {
