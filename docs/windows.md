@@ -8,7 +8,7 @@ title: Windows教程
 
 ## 01 下载地址
 
-[点击下载](https://list.tyro.wiki/d/home/alist_files/client/3.10/cooc/Digilink-Setup-1.3.10.exe)
+[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/3.10/cooc/Digilink-Setup-1.3.10.exe)
 
 ## 02 安装
 
