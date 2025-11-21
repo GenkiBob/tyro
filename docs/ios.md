@@ -39,6 +39,12 @@ title: 苹果教程
 
 ![](https://154.26.185.131:50089/d/home/alist_files/img/course/AppStoreID.webp)
 
+完成上图步骤后，点击右上角「完成」。
+
+![](https://154.26.185.131:50089/d/home/alist_files/img/course/9.webp)
+
+![](https://154.26.185.131:50089/d/home/alist_files/img/course/10.webp)
+
 ## 03 下载
 
 软件名：**Digilink**
