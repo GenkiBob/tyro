@@ -12,7 +12,7 @@ title: 苹果教程
 
 ::: tip 共享 ID
 
-[共享账号](https://vjr8o.sha.cx/10690abf7ebf869c73af50a3eb59b081)
+[共享账号](https://js.jiesuo.one/h/2393451c60dd4faa)
 
 <!-- [共享账号 1 ](https://idshare.me/) -->
 
