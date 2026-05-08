@@ -15,7 +15,7 @@ title: Mac教程
 ## 安装步骤：
 
 1. 双击打开安装包，将 **Digilink** 图标拖入左侧的 **Applications** 文件夹。
-2. 打开**终端**，复制下方命令并粘贴后回车，若未提示错误，即表示操作成功。
+2. 复制以下命令，访达中打开 **终端**，粘贴后回车，若未提示错误，即表示操作成功。
 
 ```
 xattr -dr com.apple.quarantine "/Applications/Digilink.app"
