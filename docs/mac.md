@@ -6,21 +6,27 @@ title: Mac教程
 
 # Mac 苹果电脑教程
 
+若设备中已有**同类软件**或**旧版APP**，请先 **断开连接** 并 **卸载** ，避免出现异常情况导致无法正常使用。
+
 ## 01 下载地址
 
-[M 系列芯片](https://69.63.199.20:50089/d/home/alist_files/client/3.10/cooc/Digilink-1.3.10-arm64.pkg)
+[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/c/alt/digilink.dmg)
 
-[Intel 芯片](https://69.63.199.20:50089/d/home/alist_files/client/3.10/cooc/Digilink-1.3.10.pkg)
+## 安装步骤：
 
-::: tip
+1. 双击打开安装包，将 **Digilink** 图标拖入左侧的 **Applications** 文件夹。
+2. 打开**终端**，复制下方命令并粘贴后回车，若未提示错误，即表示操作成功。
 
-如果完成下图所示步骤后提示：无法安装 xxx。大概率选错芯片版本。
+```
+xattr -dr com.apple.quarantine "/Applications/Digilink.app"
+```
 
-联系客服可快速获得技术支持！
 
-:::
+**若以上APP无法安装或使用，请 卸载后 再下载备用 APP**s
 
-## 02 安装
+[备用下载](https://154.26.185.131:50089/d/home/alist_files/client/c/net/macos.pkg)
+
+## 备用APP安装步骤
 
 首次安装时，电脑会提示“无法打开”，请按照下列步骤操作：
 

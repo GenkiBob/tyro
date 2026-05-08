@@ -6,6 +6,19 @@ title: 苹果教程
 
 # IOS/iPad OS 通用软件教程
 
+:::tip APP 更新说明
+
+苹果系统会将 APP 与下载时使用的 Apple ID 绑定。若之前使用共享 ID 下载，请先卸载原 APP，再重新获取共享 ID 并下载安装，避免更新提示“账号已停用”等异常信息。
+
+首次使用 APP 时，请输入验证码：cooc
+:::
+
+:::tip
+首次安装APP，请开启以下权限：
+
+1. 允许 V** 权限
+:::
+
 软件需要外区 ID，可通过提供的共享 ID 下载
 
 ## 01 获取 APPLE ID
@@ -14,19 +27,11 @@ title: 苹果教程
 
 [共享账号](https://js.jiesuo.one/h/2393451c60dd4faa)
 
-<!-- [共享账号 1 ](https://idshare.me/) -->
-
-<!-- [共享账号 2 ](https://f.ipip.dog/disanfang/appleid/js.html) -->
-
-<div style="text-align: left;">若以上渠道账号异常，请直接登录<a href='https://cooc.wiki' target="_blank">用户中心</a>，查看“使用教程”内的IOS文档。 </div>
-
-<!-- [共享一](https://idfree.top)｜[共享二](https://apple.laogoubi.net/s/c7d1e73290a646f2513f6f0b75843b0b)｜[共享三](https://idshare.me)｜[共享四](https://idshare.me)｜[共享五](https://appleid.iossid.com)｜[共享六](https://aunlock.laogoubi.net/s/df4ab9de842ce5f0abefcc560cf504f0)｜[共享七](https://aunlock.laogoubi.net/s/1ddec87e5432ed7d6fb11056bc53fd6a.top) -->
-
 共享账号仅能登录 App Store ，若误登 iCloud 会出现锁机风险。
 
-⚠️ 切换账号请根据下图操作！
+若更换共享 ID 后，下载时提示“此 App 在您所在的国家或地区不可用”，请先重启 App Store（将APP从后台清除），重新打开后再下载。
 
-<div style="text-align: right;">以上信息均通过公开途径收集，更新时间：2024-01-20 </div>
+⚠️ 切换账号请根据下图操作！
 :::
 
 ::: tip 独享 ID
