@@ -53,7 +53,3 @@ title: 苹果教程
 ![](https://69.63.199.20:50089/d/home/alist_files/img/course/9.webp)
 
 ![](https://69.63.199.20:50089/d/home/alist_files/img/course/10.webp)
-
-## 03 下载
-
-
