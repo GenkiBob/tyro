@@ -24,18 +24,26 @@ features:
     details: 苹果手机、平板 使用教程
     linkText: 点击查看
     link: /ios
-  - title: Mac 下载安装
-    details: 苹果电脑 使用教程
-    linkText: 点击查看
-    link: /mac
   - title: Android 下载安装
     details: 安卓/鸿蒙/华为 手机平板 使用教程
     linkText: 点击查看
     link: /android
+  - title: Mac 下载安装
+    details: 苹果电脑 使用教程
+    linkText: 点击查看
+    link: /mac
   - title: Windows 下载安装
     details: PC 使用教程
     linkText: 点击查看
     link: /windows
+  - title: Linux 下载安装
+    details: Linux 使用教程
+    linkText: 点击查看
+    link: /linux
+  - title: 路由器 下载安装
+    details: OpenWRT、iStoreOS 使用教程
+    linkText: 点击查看
+    link: /openwrt
 ---
 
 

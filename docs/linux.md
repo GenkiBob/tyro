@@ -6,6 +6,8 @@ title: Linux教程
 
 # Linux教程
 
+仅支持图形化界面。
+
 ## Debian|Ubuntu
 [点击下载](https://154.26.185.131:50089/d/home/alist_files/client/c/alt/linux/digilink_1.38.0_ubuntu_debian_amd64.deb)
 

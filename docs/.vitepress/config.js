@@ -31,6 +31,8 @@ export default {
           { text: 'MacOS 苹果电脑', link: '/mac' },
           { text: 'IOS 苹果手机/平板', link: '/ios' },
           { text: 'Android 安卓/华为/荣耀', link: '/android' },
+          { text: '路由器', link: '/openwrt' },
+          { text: 'Linux', link: '/linux' },
         ]
       }
     ],
