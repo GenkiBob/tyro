@@ -10,11 +10,11 @@ title: Android教程
 
 ## 01 下载地址
 
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/c/alt/digilink.apk)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/alt/digilink.apk)
 
 **若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
 
-[备用下载](https://154.26.185.131:50089/d/home/alist_files/client/c/net/android.apk)
+[备用下载](https://69.63.199.20:50089/d/home/alist_files/client/c/net/digilink.apk)
 
 
 :::tip

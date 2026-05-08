@@ -10,7 +10,7 @@ title: Windows教程
 
 ## 01 下载地址
 
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/c/alt/digilink.exe)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/alt/digilink.exe)
 
 :::tip
 安装问题处理：
@@ -28,9 +28,11 @@ title: Windows教程
 
 **若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
 
-[备用下载](https://154.26.185.131:50089/d/home/alist_files/client/c/net/windows.exe)
+[备用下载](https://69.63.199.20:50089/d/home/alist_files/client/c/net/digilink.exe)
 
-[免安装版](https://154.26.185.131:50089/d/home/alist_files/client/c/net/Digilink-3.0.4-windows-amd64.zip)
+若您只是临时使用，可下载免安装版本，解压即可使用。
+
+[免安装版](https://69.63.199.20:50089/d/home/alist_files/client/c/net/digilink.zip)
 
 ## 02 安装
 
