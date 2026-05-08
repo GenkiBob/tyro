@@ -30,10 +30,6 @@ title: Windows教程
 
 [备用下载](https://69.63.199.20:50089/d/home/alist_files/client/c/net/digilink.exe)
 
-若您只是临时使用，可下载免安装版本，解压即可使用。
-
-[免安装版](https://69.63.199.20:50089/d/home/alist_files/client/c/net/digilink.zip)
-
 ## 02 安装
 
 首次安装时，电脑会提示“无法打开”，请按照下列步骤操作：
