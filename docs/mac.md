@@ -21,8 +21,12 @@ title: Mac教程
 xattr -dr com.apple.quarantine "/Applications/Digilink.app"
 ```
 
+:::tip 
+若点击 “连接” 后无法正常使用，请勾选TUN，并重新 连接 或 勾选 系统代理（TUN：屏幕右上角软件托盘处找到 Digilink 图标，鼠标右键点击图标，有时图标太多会被隐藏，退出其他图标即可）
+:::
 
-**若以上APP无法安装或使用，请 卸载后 再下载备用 APP**s
+
+**若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
 
 [备用下载](https://154.26.185.131:50089/d/home/alist_files/client/c/net/macos.pkg)
 
