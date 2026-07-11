@@ -10,6 +10,8 @@ title: 苹果教程
 
 验证码：**cooc**
 
+第一次使用，请在购买后，**断开**连接，重启APP，或点击 **更新** 按钮。
+
 <a href="https://apps.apple.com/app/id1595774070">
 <img src="https://69.63.199.20:50089/d/home/alist_files/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
 </a>
