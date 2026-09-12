@@ -11,14 +11,8 @@ title: Android教程
 第一次使用，请在购买后，**断开**连接，重启APP，或点击 **更新** 按钮。
 
 ## 01 下载地址
-<!-- 
-[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/alt/digilink.apk)
 
-**若以上APP无法安装或使用，请 卸载后 再下载备用 APP** -->
-
-[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/net/digilink.apk)
-
-若备用APP无法使用，请点击右上角的按钮，勾选 “穿透模式”。
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/jx/dlx.apk)
 
 :::tip
 首次安装APP，系统提示是否开启以下权限，请点击 允许
