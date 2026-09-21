@@ -10,24 +10,7 @@ title: Mac教程
 
 ## 01 下载地址
 
-<!-- [点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/alt/digilink.dmg)
-
-安装 并 连接后，若无法使用，请**断开**连接，展开节点列表，勾选 右上角 的**t n模式**，再次**连接**试用。
-
-## 安装步骤：
-
-1. 双击打开安装包，将 **Digilink** 图标拖入右侧的 **Applications** 文件夹。
-2. 复制以下命令，访达中打开 **终端**，粘贴后回车，若未提示错误，即表示操作成功。
-
-```
-xattr -dr com.apple.quarantine "/Applications/Digilink.app"
-```
-
-**若以上APP无法安装或使用，请 卸载后 再下载备用 APP** -->
-
-[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/net/digilink.pkg)
-
-安装 并 连接后，若无法使用，请**断开**连接，点击 右上角的**展开按钮**，勾选**虚拟网 模式**，再次**连接**试用，若依然无法使用，勾选**穿透模式**，**断开**连接，重启APP，再次**连接**试用。
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/net/dlx.dmg)
 
 ## 备用APP安装步骤
 
