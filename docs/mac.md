@@ -10,7 +10,7 @@ title: Mac教程
 
 ## 01 下载地址
 
-[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/net/dlx.dmg)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/c/jx/dlx.dmg)
 
 ## 备用APP安装步骤
 
